@@ -1,12 +1,13 @@
 import scrapy
 
 from pep_parse.items import PepParseItem
+from pep_parse.settings import SPIDER_URL
 
 
 class PepSpider(scrapy.Spider):
     name = 'pep'
-    allowed_domains = ['peps.python.org']
-    start_urls = ['https://peps.python.org/']
+    allowed_domains = [SPIDER_URL]
+    start_urls = ['https://' + SPIDER_URL + '/']
 
     def parse(self, response):
         all_links = response.css(

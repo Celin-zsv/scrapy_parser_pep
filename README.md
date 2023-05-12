@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F71329&multiline=true&width=435&lines=+scrapy_parser_pep)](https://git.io/typing-svg)  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1D39F7&multiline=true&width=435&lines=+scrapy_parser_pep)](https://git.io/typing-svg)  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=1000&color=1FBB30F6&multiline=true&width=435&lines=+scrapy_parser_pep)](https://git.io/typing-svg)    
-[![Typing SVG](https://img.shields.io/badge/scrapy_parser_pep-sprint--19%20ver.1-red)](https://git.io/typing-svg)
+[![Typing SVG](https://img.shields.io/badge/scrapy_parser_pep-sprint--19%20ver.2-red)](https://git.io/typing-svg)
 
-### Проект: асинхронный парсер PEP. Спринт-19, ver.1, Зеленковский Сергей  
+### Проект: асинхронный парсер PEP. Спринт-19, ver.2, Зеленковский Сергей  
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTujwu6HtzvrpKw44xso5zi1iYZvFeDtWzr4_FO5En6DQ&s)
 #### Содержание

@@ -3,12 +3,13 @@ from pathlib import Path
 BASE_DIR = Path(__file__).parent.parent
 RESULTS_DIR = 'results'
 DT_FORMAT = '%Y-%m-%d_%H-%M-%S'
-
+SPIDER_URL = 'peps.python.org'
 
 BOT_NAME = 'pep_parse'
+SPIDER_MODULE_NAME = BOT_NAME + '.spiders'
 
-SPIDER_MODULES = ['pep_parse.spiders']
-NEWSPIDER_MODULE = 'pep_parse.spiders'
+SPIDER_MODULES = [SPIDER_MODULE_NAME]
+NEWSPIDER_MODULE = SPIDER_MODULE_NAME
 
 
 ROBOTSTXT_OBEY = True
